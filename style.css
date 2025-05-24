@@ -1,0 +1,24 @@
+div {
+  border: 1px solid rgb(110, 14, 49) ;
+  width: 400px;
+  margin-top: 100px;
+  margin-left: 600px;
+}
+
+input {
+    margin-left: 18%;
+    margin-top: 20px;
+    text-align: center;
+    height: 30px;
+    width: 250px;
+}
+
+button {
+  margin-left: 38px;
+  height: 40px;
+  width: 50px;
+}
+
+h1 {
+  text-align: center;
+}
